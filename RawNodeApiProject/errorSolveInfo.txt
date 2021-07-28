@@ -1,0 +1,4 @@
+"'NODE_ENV' is not recognized as an internal or external command,
+operable program or batch file." getting this error--
+==>> npm install -g win-node-env
+This will solve your problem
